@@ -1,0 +1,1 @@
+export const isMobileView = window.matchMedia("(min-width: 320px) and (max-width: 480px)").matches;
