@@ -35,16 +35,16 @@ BTalk là một ứng dụng web chat sử dụng ReactJS và Firebase.
 5. Đăng xuất
 
 ## Thư viện và Frameworks
-ReactJS - 18.2.0
-Firebase - 10.4.0
-Sass - 1.67.0
-uuid - 9.0.1
-wc-toast - 1.3.0
-@reactjs/toolkit - 1.9.5
-date-fns - 2.30.0
-react-redux - 8.112
-react-router-dom - 6.16.0
+1. ReactJS - 18.2.0
+2. Firebase - 10.4.0
+3. Sass - 1.67.0
+4. uuid - 9.0.1
+5. wc-toast - 1.3.0
+6. @reactjs/toolkit - 1.9.5
+7. date-fns - 2.30.0
+8. react-redux - 8.112
+10. react-router-dom - 6.16.0
 
 ## Tạo bởi
-Người tạo: Vo Hoai Bao
-Email: bao.typpingcode@gmail.com
+1. Người tạo: Vo Hoai Bao
+2. Email: bao.typpingcode@gmail.com
